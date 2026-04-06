@@ -5,8 +5,7 @@
 - 🌍 I'm based in Punjab, India
 - 🖥️ See my portfolio at [GitHub](https://github.com/p1yush-exe)
 - ✉️ You can contact me at [piyushmalik.work@gmail.com](mailto:piyushmalik.work@gmail.com)
-- 🧠 I'm currently learning LangGraph and WebSockets
-- 🤝 I'm looking to collaborate on Gen-AI and Full Stack projects
+- 🤝 I'm looking to collaborate on AI/ML and Full Stack projects
 
 ### My Skills
 <p align="left">
