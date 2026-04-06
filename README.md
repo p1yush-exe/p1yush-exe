@@ -9,7 +9,7 @@
 ### My Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,java,c,cpp,python,react,nextjs,nodejs,tailwind,mongodb,mysql,git,github,vscode,vercel,docker,npm,ts,prisma,tensorflow,arduino,raspberrypi,pytorch,latex,bun,redis,aws,sqlite,postgres,supabase,firebase,,netlify,blender,pr,ae,ps" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,java,c,cpp,python,react,nextjs,nodejs,tailwind,mongodb,mysql,git,github,vscode,vercel,docker,npm,ts,prisma,tensorflow,arduino,raspberrypi,pytorch,latex,bun,redis,aws,sqlite,postgres,firebase,,netlify,blender,pr,ae,ps" alt="My Skills" />
   </a>
 </p>
 
