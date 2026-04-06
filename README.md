@@ -11,7 +11,7 @@
 ### My Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,java,c,cpp,python,react,nextjs,nodejs,tailwind,mongodb,mysql,git,github,vscode,blender,pr,ae" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,java,c,cpp,python,react,nextjs,nodejs,tailwind,mongodb,mysql,git,github,vscode,blender,vercel,docker,npm,ts,prisma,tensorflow,arduino,raspberrypi,pytorch,latex,bun,redis,aws,sqlite,postgres,supabase,firebase,pr,ae,ps,netlify" alt="My Skills" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
   <a href="https://github.com/p1yush-exe" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="32" height="32" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/plyushmalik" target="_blank">
+  <a href="https://www.linkedin.com/in/p1yushmalik" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" alt="LinkedIn" />
   </a>
 </p>
