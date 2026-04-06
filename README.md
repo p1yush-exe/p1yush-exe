@@ -3,14 +3,13 @@
 **AI Developer, Full Stack Engineer, Computer Engineering Student**
 
 - 🌍 I'm based in Punjab, India
-- 🖥️ See my portfolio at [GitHub](https://github.com/p1yush-exe)
 - ✉️ You can contact me at [piyushmalik.work@gmail.com](mailto:piyushmalik.work@gmail.com)
 - 🤝 I'm looking to collaborate on AI/ML and Full Stack projects
 
 ### My Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,java,c,cpp,python,react,nextjs,nodejs,tailwind,mongodb,mysql,git,github,vscode,blender,vercel,docker,npm,ts,prisma,tensorflow,arduino,raspberrypi,pytorch,latex,bun,redis,aws,sqlite,postgres,supabase,firebase,pr,ae,ps,netlify" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,java,c,cpp,python,react,nextjs,nodejs,tailwind,mongodb,mysql,git,github,vscode,vercel,docker,npm,ts,prisma,tensorflow,arduino,raspberrypi,pytorch,latex,bun,redis,aws,sqlite,postgres,supabase,firebase,,netlify,blender,pr,ae,ps" alt="My Skills" />
   </a>
 </p>
 
@@ -22,11 +21,8 @@
   <a href="https://www.linkedin.com/in/p1yushmalik" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" alt="LinkedIn" />
   </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/p1yush-exe?tab=followers">
-    <img src="https://img.shields.io/github/followers/p1yush-exe?label=FOLLOWERS&style=for-the-badge&color=0d1117&logoColor=white" alt="followers" />
+  <a href="https://discord.com/users/psiko.exe" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" width="32" height="32" alt="LinkedIn" />
   </a>
 </p>
 
